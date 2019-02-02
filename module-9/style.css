@@ -1,0 +1,54 @@
+#wrap{
+text-align: center;
+
+}
+
+.go{
+    color: red;
+}
+
+.stop{
+    color: blue;
+}
+
+.duck{
+    color: green;
+}
+
+.dog{
+    font-size: 35px;
+}
+
+.cat{
+    font-size: 8px;
+}
+
+.snake{
+    text-align: center;
+}
+
+.fish{
+    font-weight: bold;
+}
+
+.hayder{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mck{
+    font-size: 35px;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont{
+    color: green;
+    font-size: 20px;
+    font-family: sans-serif; 
+}
+
+#styledImage{
+    border-width: 10px;
+    color: orange;
+    border-style: solid;
+}
